@@ -19,19 +19,20 @@ subtitle = ""
   icon_pack = "custom"
   name = "Python"
   description = "90%"
-  
+
+[[feature]]
+  icon = "tensorflow"
+  icon_pack = "custom"
+  name = "Tensorflow"
+  description = "75%"  
+
 [[feature]]
   icon = "cpp"
   icon_pack = "custom"
   name = "C++"
   description = "80%"  
-  
-[[feature]]
-  icon = "Tensorflow"
-  icon_pack = "custom"
-  name = "Tensorflow"
-  description = "75%"
-
+ 
+ 
 [[feature]]
   icon = "gazebo"
   icon_pack = "custom"
