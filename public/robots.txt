@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://amirshahid.github.io/sitemap.xml
