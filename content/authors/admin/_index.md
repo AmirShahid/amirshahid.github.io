@@ -29,7 +29,7 @@ education:
   courses:
   - course: BSc in Computer Engineering
     institution: Sharif University of Technology
-    year: 2016
+    year: 2016 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
