@@ -14,13 +14,13 @@
     
     <item>
       <title>Medical Slide Scanner</title>
-      <link>https://amirshahid.github.io/project/internal-project/</link>
+      <link>https://amirshahid.github.io/project/scanner/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://amirshahid.github.io/project/internal-project/</guid>
+      <guid>https://amirshahid.github.io/project/scanner/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;First of all, please watch the slides on the top&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;||&lt;/p&gt;
-&lt;p&gt;|||&lt;/p&gt;
+&lt;p&gt;\&lt;/p&gt;
+&lt;p&gt;\ \&lt;/p&gt;
+&lt;p&gt;\ \ \&lt;/p&gt;
 &lt;p&gt;We are pushing the limits of AI by inventing a scanner for detecting cancer
 cells from Medical images using Neural Networks.&lt;/p&gt;
 &lt;p&gt;We are pushing the limits of AI by inventing a scanner for detecting cancerous cells from medical images using Neural Networks.

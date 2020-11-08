@@ -14,13 +14,13 @@
     
     <item>
       <title>Medical Slide Scanner</title>
-      <link>https://amirshahid.github.io/project/internal-project/</link>
+      <link>https://amirshahid.github.io/project/scanner/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://amirshahid.github.io/project/internal-project/</guid>
+      <guid>https://amirshahid.github.io/project/scanner/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;First of all, please watch the slides on the top&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;||&lt;/p&gt;
-&lt;p&gt;|||&lt;/p&gt;
+&lt;p&gt;\&lt;/p&gt;
+&lt;p&gt;\ \&lt;/p&gt;
+&lt;p&gt;\ \ \&lt;/p&gt;
 &lt;p&gt;We are pushing the limits of AI by inventing a scanner for detecting cancer
 cells from Medical images using Neural Networks.&lt;/p&gt;
 &lt;p&gt;We are pushing the limits of AI by inventing a scanner for detecting cancerous cells from medical images using Neural Networks.
@@ -43,10 +43,26 @@ I am in the Computer Vision team and have contributed to Stitching, PapSmear Can
     </item>
     
     <item>
+      <title>Transfer Learning in RL</title>
+      <link>https://amirshahid.github.io/project/bs-project/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://amirshahid.github.io/project/bs-project/</guid>
+      <description>&lt;p&gt;\&lt;/p&gt;
+&lt;p&gt;\  \&lt;/p&gt;
+&lt;p&gt;\   \   \&lt;/p&gt;
+&lt;p&gt;My BSc thesis under the supervision of Prof. Rabiee was
+about Applications of Transfer Learning in Reinforcement Learning.&lt;/p&gt;
+&lt;p&gt;Throughout my research on self-driving cars (SDV),
+I was impressed by the reinforcement learning algorithms&#39; effect on SDV, but these algorithms heavily rely on expensive sensors like LiDAR, multi-camera, and 3d-camera, etc. which is conducive to the high price of such vehicles these days. Therefore, I was inclined to avoid the collisions only with the help of a single camera (monocular image) and high-level feature extractor.&lt;/p&gt;
+&lt;p&gt;Moreover, in this thesis, I have tried to train in a simulator to minimize real-world collision due to such systems&#39; criticality and deployed transfer learning methods to handle distribution shifts between simulation and real-world images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
-      <link>https://amirshahid.github.io/slides/example/</link>
+      <link>https://amirshahid.github.io/slides/scanner/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://amirshahid.github.io/slides/example/</guid>
+      <guid>https://amirshahid.github.io/slides/scanner/</guid>
       <description>&lt;h1 id=&#34;medical-image-scanner&#34;&gt;Medical Image Scanner&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;- press space -&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
