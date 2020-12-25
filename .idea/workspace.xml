@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="fix">
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-pack/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/assets/images/icon-pack/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/config/_default/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/config/_default/languages.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/config/_default/menus.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/config/_default/params.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/authors/admin/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/authors/admin/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/authors/吳恩達/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/authors/吳恩達/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/courses/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/courses/example/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/courses/example/example1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/courses/example/example2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/accomplishments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/demo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/experience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/featured.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-1950s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-apogee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-coffee-playfair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-forest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-ocean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/gallery/theme-strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/gallery/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/hero.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/people.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/posts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/projects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/publications.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/slider.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/home/talks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/getting-started/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/getting-started/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/jupyter/featured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/jupyter/index.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/jupyter/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/jupyter/index_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/writing-technical-content/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/writing-technical-content/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/post/writing-technical-content/line-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/privacy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/project/external-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/project/external-project/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/project/internal-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/project/internal-project/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/conference-paper/cite.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/conference-paper/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/conference-paper/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/journal-article/cite.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/journal-article/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/journal-article/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/preprint/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/publication/preprint/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/slides/example/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/talk/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/talk/example/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/talk/example/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/content/terms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/assets/scss/scss/main.scss_76ac6956597c32fec7ddf60d408db3ab.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/assets/scss/scss/main.scss_76ac6956597c32fec7ddf60d408db3ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/assets/scss/scss/main.scss_9f896623db74eba16a49d52c1955683d.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/assets/scss/scss/main.scss_9f896623db74eba16a49d52c1955683d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/authors/吳恩達/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/home/gallery/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1200x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_720x0_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_2560x2560_fit_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_918x517_fill_q90_lanczos_smart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/journal-article/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/journal-article/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_150x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/files/cv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/media/boards.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/media/demo_resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/media/headers/bubbles-wide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSite/static/media/hero-academic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/wowchemy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon_huf961c08f3fa341d50065c39a43445549_299843_192x192_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon_huf961c08f3fa341d50065c39a43445549_299843_32x32_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon_huf961c08f3fa341d50065c39a43445549_299843_512x512_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/mathjax-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/wowchemy.min.4c2bca31150ce93c5a5e43b8a50f22fd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/internal-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/internal-project/featured_hu54f5af80ad405cfbde6e4e940153695f_115920_550x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/internal-project/featured_hu54f5af80ad405cfbde6e4e940153695f_115920_720x0_resize_q90_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/internal-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tag/medical-image-analysis/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tag/medical-image-analysis/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tag/medical-image-analysis/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/A_stitch.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/B_stitch.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/cell1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/cell2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/segment.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/slidescope.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/admin/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/admin/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/experience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/skills.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/skills.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/author/amir-hossein-shahidzadeh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/author/amir-hossein-shahidzadeh/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/author/amir-hossein-shahidzadeh/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/author/amir-hossein-shahidzadeh/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/cv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/load-theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/load-theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/publication_types/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/publication_types/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/talk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/talk/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/talk/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/files/cv.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="99a9c3a9-a984-4403-a95e-c61334c3174b" />
+  <component name="ProjectId" id="1hu30OdqxeX3vB47CN7u3Hfh4w3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/project/BS-Project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
+      <recent name="E:\GitFolio\starter-academic\static\media" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
+      <recent name="E:\GitFolio\starter-academic\content\static\media" />
+      <recent name="E:\GitFolio\starter-academic\content\slides\example" />
+      <recent name="E:\GitFolio\starter-academic\content\slides" />
+      <recent name="E:\GitFolio\starter-academic\content\slides\SlideScope" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="" />
+      <created>1600846925225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600846925225</updated>
+      <workItem from="1600846933692" duration="1601000" />
+      <workItem from="1600849670642" duration="5709000" />
+      <workItem from="1600930447148" duration="25520000" />
+      <workItem from="1601302275283" duration="1595000" />
+      <workItem from="1601364780706" duration="8418000" />
+      <workItem from="1604239041184" duration="11707000" />
+      <workItem from="1604335993354" duration="85000" />
+      <workItem from="1604336199954" duration="603000" />
+      <workItem from="1604836775928" duration="14776000" />
+      <workItem from="1604852524070" duration="703000" />
+      <workItem from="1604903307219" duration="1260000" />
+      <workItem from="1605342570212" duration="1787000" />
+      <workItem from="1605471433566" duration="621000" />
+      <workItem from="1605853489062" duration="1569000" />
+      <workItem from="1606987925928" duration="1069000" />
+      <workItem from="1608730776402" duration="557000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initiate with general infos">
+      <created>1601362461431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601362461431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initiate with general infos">
+      <created>1601363007921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601363007921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initiate with general infos">
+      <created>1601363313342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601363313342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initiate with general infos">
+      <created>1601364214120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601364214120</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add custom icons">
+      <created>1601364412148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601364412148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add custom icons">
+      <created>1601365019551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601365019551</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initiate with general info">
+      <created>1601365417489</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601365417489</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initiate with general info">
+      <created>1601367075172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367075172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initiate with general info">
+      <created>1601367361402</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367361402</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix for chrome">
+      <created>1601367647656</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367647656</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix">
+      <created>1601369045771</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601369045771</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix">
+      <created>1601372602434</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601372602434</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix">
+      <created>1601374507361</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601374507361</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiate with general infos" />
+    <MESSAGE value="Add custom icons" />
+    <MESSAGE value="Initiate with general info" />
+    <MESSAGE value="Fix for chrome" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604241464544">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="531" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1600951067993" />
+    <state x="531" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1604241464544" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604244643480">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601374505093" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1604244643480" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1601374390651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1601374390651" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601362685738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601362685738" />
+    <state x="621" y="121" key="RollbackChangesDialog" timestamp="1604240583305">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="621" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601374398715" />
+    <state x="621" y="121" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604240583305" />
+    <state x="555" y="148" key="VCS.ChangeListViewerDialog" timestamp="1604239130298">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="148" key="VCS.ChangeListViewerDialog/0.0.1536.864@0.0.1536.864" timestamp="1604239130298" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601374508942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601374508942" />
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604239121850">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604239121850" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1604849945628">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600849693714" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1604849945628" />
+  </component>
+</project>
