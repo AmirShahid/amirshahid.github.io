@@ -21,9 +21,9 @@ organizations:
 bio: My research is at the intersection of Computer Vision, Reinforcement Learning and Robotics.
 
 interests:
+- Visual Representation for Robotic
 - Reinforcement Learning
-- Scene Understanding
-- Autonomous Driving
+- Medical Image Analysis
 
 education:
   courses:
@@ -49,9 +49,9 @@ social:
   icon_pack: fab
   link: https://t.me/AMIR_SH_Dream
 
-- icon: cv
-  icon_pack: ai
-  link: static/Amir_CV.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: static/Amir_CV.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,4 +75,4 @@ My research focus is at the intersection of Computer Vision, Reinforcement Learn
 (1) perception for robotics, (2) state estimation and control, (3) sim2real transfer. 
 <br>
 <br>
-<h4 style="color:#990000">Let's not just to dream about <u>SUPER-HUMANOID!</u> but realize it.</h4>
+***<h4 style="color:#990000">Let's not just dream about <u><a href="https://www.youtube.com/watch?v=1y3XdwTa1cA">SUPER-HUMANOID!</a></u> but realize it.</h4>***

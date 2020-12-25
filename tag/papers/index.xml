@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Amir-Hossein</title>
+    <link>https://amirshahid.github.io/tag/papers/</link>
+      <atom:link href="https://amirshahid.github.io/tag/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amirshahid.github.io/images/icon_huf961c08f3fa341d50065c39a43445549_299843_512x512_fill_lanczos_center_2.png</url>
+      <title>Papers</title>
+      <link>https://amirshahid.github.io/tag/papers/</link>
+    </image>
+    
+    <item>
+      <title>How To Teach A Robot</title>
+      <link>https://amirshahid.github.io/interest/how-to-teach-a-robot/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://amirshahid.github.io/interest/how-to-teach-a-robot/</guid>
+      <description>&lt;p&gt;\&lt;/p&gt;
+&lt;p&gt;\  \&lt;/p&gt;
+&lt;p&gt;\  \  \&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t want to just restate the common plans toward becoming a Deep Learning specialist
+as it depends on every individual&amp;rsquo;s background.
+Instead, I&amp;rsquo;d like to share the materials I selected carefully to learn after getting my mathematics and physics diploma.&lt;/p&gt;
+&lt;p&gt;In my thoughts, the Below topics play a prominent role in Robot Learning. Also, I put the courses with the least interference which are publicly available:&lt;/p&gt;
+&lt;h1 id=&#34;umathematicsu&#34;&gt;&lt;u&gt;Mathematics&lt;/u&gt;&lt;/h1&gt;
+&lt;p&gt;When I came to university, I thought a basic knowledge of mathematics is enough, so I didn&amp;rsquo;t pay much attention to mathematics at first.
+However, when I took AI and ML courses, I gradually realized the importance of prob&amp;amp;stat, convex optimization and linear algebra, so I planned to delve into them through lecture videos of courses that talk more in-depth.  At first look, this start may seem slow, but I believe starting Deep Learning without understanding these fundamentals would be more time-consuming as you need to learn them, again and again, to be able to learn more advanced topics.&lt;/p&gt;
+&lt;h3 id=&#34;probability&#34;&gt;Probability&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://probabilitycourse.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProbabilityCourse&lt;/a&gt; is a good introduction. It helped me a lot during my undergrad probability course at university.
+But keep in mind that this course isn&amp;rsquo;t as easy as the ProbabilityCourse has taught.
+When I started the AI course, it became more intense than I&amp;rsquo;d expected, resulting in finding &lt;a href=&#34;https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stat 110&lt;/a&gt;, which is especially focused on applications of probability in AI.
+Although some of the lectures about additional distributions aren&amp;rsquo;t necessary and the course is for 2018, I can assure you that I haven&amp;rsquo;t seen an initiative idea in papers that weren&amp;rsquo;t covered by Blitzstein and Hwang. The only downside could be the low number of examples though the current examples are so practical.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dzFf3r1yph8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;convex-optimization&#34;&gt;Convex Optimization&lt;/h3&gt;
+&lt;p&gt;I voluntarily attended this course in Mathematical Dep., the home of great scientists like &lt;em&gt;&lt;strong&gt;&lt;span style=&#34;color:Chocolate&#34;&gt;Prof. Maryam Mirzakhani&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;.
+Thanks to Mojtaba Tefagh, the former student of Stephen Boyd at Stanford, I didn&amp;rsquo;t require an additional course. His approach to solving problems was quite nice(like himself). He looks at problems in a similar way whether they are straightforward or the hardest ever.
+I&amp;rsquo;m happy that I audited the course because the exams were NOT designed for CS students. Unfortunately, the course is only available in Persian, and I put the link &lt;a href=&#34;http://ocw.sharif.edu/course/id/203/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%AA%D9%81%D8%A7%D9%82/%D8%A8%D9%87%DB%8C%D9%86%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%AD%D8%AF%D8%A8.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+You can see how Covid attacked us after the third session 🙃&lt;/p&gt;
+&lt;h3 id=&#34;linear-algebra&#34;&gt;Linear Algebra&lt;/h3&gt;
+&lt;p&gt;As far as I know, LA more appears on classic Image Processing and DNNs.
+Negin Bagherpour was the instructor, which gives me good intuition of higher dimensions.
+The syllabus could be more relevant to ML applications, but Quadratic Forms, Matrix Decomp., Low-Rank Approx., was useful for me.
+Again, our LA course was good, and it left no place for an additional course as an undergrad. However, this brief, handy &lt;a href=&#34;https://amirshahid.github.io/files/math4ml.pdf&#34;&gt;notebook&lt;/a&gt; is the first thing I look at when I want to recall/learn something. Also, a detailed &lt;a href=&#34;https://amirshahid.github.io/files/mml-book.pdf&#34;&gt;book&lt;/a&gt; is recently released by Deisenroth.&lt;/p&gt;
+&lt;h3 id=&#34;random-processes-statistical-learning-&#34;&gt;Random Processes, Statistical Learning, &amp;hellip;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sadly, human beings are limited by time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ulearning-coursesu&#34;&gt;&lt;u&gt;Learning Courses&lt;/u&gt;&lt;/h1&gt;
+&lt;p&gt;In my opinion, if someone has studied mathematics parts, the learning courses such as Deep Learning, Machine Learning, Deep RL, etc., are nothing but a combination of mathematics.
+In my case, as the learning applications engrossed me, I took learning classes with the math classes in parallel.&lt;/p&gt;
+&lt;h3 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h3&gt;
+&lt;p&gt;40719 by Mahdieh Soleymani was the best class I had at SUT. This is an extensive course in terms of topics. We had diverse and comprehensive subjects of Computer Vision(CS231), NLP, RL, and Optimizers only in one course. Besides, TA classes aim to teach PyTorch, and the best point about this course was that most subjects are taught along with the SOTA until that day.
+As a result, we could gain confidence in predicting the main ideas and feel close to the scientists.
+She tried to tell everything she knew to us, and Deep Neural Nets covered sufficiently.&lt;/p&gt;
+&lt;h3 id=&#34;deep-reinforcement-learning&#34;&gt;Deep Reinforcement Learning&lt;/h3&gt;
+&lt;p&gt;No one can cast a shadow of doubt on the fact that the most prominent topic in Robot Learning is DeepRL, and I learned all of the above to use in DeepRL.
+During the Deep learning course, we conceptually read about Policy Gradients and Q-learning.
+Regarding the RL scope, we need to learn quite a few topics as a researcher in the robotics field.
+I found &lt;a href=&#34;https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS285&lt;/a&gt; the most structured and detailed lecture, including Meta-Learning, Transfer Learning, Distribution of data, as well as ample discussions about reward, exploration functions and makes them as clear as possible.
+But we shouldn’t be satisfied with a single course, and that’s why I love the way Sergey Levine teaches. He is not like other teachers who are always in a hurry to be on track. Instead, he patiently teaches the way of thinking about how to approach new problems.
+This is significant because RL is so broad, and we should be able to find the best approach for every specific obstacle.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dmkPJpWCVcI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;/   /   /&lt;/p&gt;
+&lt;p&gt;/  /&lt;/p&gt;
+&lt;p&gt;/&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
