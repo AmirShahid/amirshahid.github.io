@@ -22,7 +22,7 @@
 &lt;p&gt;\  \  \&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t want to restate the common plans toward becoming a Deep Learning specialist
 as it depends on every individual&amp;rsquo;s background.
-Instead, I&amp;rsquo;d like to share the materials I selected carefully to learn after getting my mathematics and physics diploma.&lt;/p&gt;
+Instead, I&amp;rsquo;d like to share the materials I selected carefully to learn after getting my diploma in mathematics and physics at high school.&lt;/p&gt;
 &lt;p&gt;In my thoughts, the Below topics play a prominent role in Robot Learning. Also, I put the courses with the least interference which are publicly available:&lt;/p&gt;
 &lt;h1 id=&#34;umathematicsu&#34;&gt;&lt;u&gt;Mathematics&lt;/u&gt;&lt;/h1&gt;
 &lt;p&gt;When I came to university, I thought a basic knowledge of mathematics is enough, so I didn&amp;rsquo;t pay much attention to mathematics at first.
@@ -49,9 +49,9 @@ The syllabus could be more relevant to ML applications, but Quadratic Forms, Mat
 Again, our LA course was good, and it left no place for an additional course as an undergrad. However, this brief, handy &lt;a href=&#34;https://amirshahid.github.io/files/math4ml.pdf&#34;&gt;notebook&lt;/a&gt; is the first thing I look at when I want to recall/learn something. Also, a detailed &lt;a href=&#34;https://amirshahid.github.io/files/mml-book.pdf&#34;&gt;book&lt;/a&gt; is recently released by Deisenroth.&lt;/p&gt;
 &lt;h3 id=&#34;random-processes-statistical-learning-&#34;&gt;Random Processes, Statistical Learning, &amp;hellip;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Sadly, human beings are limited by time but I read some about them whenever I needed.&lt;/li&gt;
+&lt;li&gt;Sadly, human beings are limited by time, but I read some about them whenever necessary.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;u-x-learning-coursesu&#34;&gt;&lt;u&gt; X Learning Courses&lt;/u&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;ux-learning-coursesu&#34;&gt;&lt;u&gt;X Learning Courses&lt;/u&gt;&lt;/h1&gt;
 &lt;p&gt;In my opinion, if someone has studied mathematics parts, the learning courses such as Deep Learning, Machine Learning, Deep RL, etc., are nothing but a combination of mathematics.
 In my case, as the learning applications engrossed me, I took learning classes with the math classes in parallel.&lt;/p&gt;
 &lt;h3 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h3&gt;
@@ -64,7 +64,8 @@ During the Deep learning course, we conceptually read about Policy Gradients and
 Regarding the RL scope, we need to learn quite a few topics as a researcher in the robotics field.
 I found &lt;a href=&#34;https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS285&lt;/a&gt; the most structured and detailed lecture, including Meta-Learning, Transfer Learning, Distribution of data, as well as ample discussions about reward, exploration functions and makes them as clear as possible.
 But we shouldn’t be satisfied with a single course, and that’s why I love the way Sergey Levine teaches. He is not like other teachers who are always in a hurry to be on track. Instead, he patiently teaches the way of thinking about how to approach new problems.
-This is significant because RL is so broad, and we should be able to find the best approach for every specific obstacle.
+This is significant because RL is so broad, and we should be able to find the best approach for every specific obstacle.&lt;/p&gt;
+&lt;p&gt;Abbeel&amp;rsquo;s interview about DeepRL is worth listening to
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/dmkPJpWCVcI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -211,7 +212,7 @@ One
 &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;em&gt;&lt;strong&gt;Three&lt;/strong&gt;&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;Three &amp;ndash;&amp;gt;&lt;/strong&gt;&lt;/em&gt;
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 
@@ -239,7 +240,7 @@ One
 &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;em&gt;&lt;strong&gt;Three&lt;/strong&gt;&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;Three &amp;ndash;&amp;gt;&lt;/strong&gt;&lt;/em&gt;
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 

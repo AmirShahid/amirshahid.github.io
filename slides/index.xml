@@ -54,7 +54,7 @@ One
 &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;em&gt;&lt;strong&gt;Three&lt;/strong&gt;&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;Three &amp;ndash;&amp;gt;&lt;/strong&gt;&lt;/em&gt;
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 
@@ -82,7 +82,7 @@ One
 &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;em&gt;&lt;strong&gt;Three&lt;/strong&gt;&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;Three &amp;ndash;&amp;gt;&lt;/strong&gt;&lt;/em&gt;
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 

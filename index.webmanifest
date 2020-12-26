@@ -2,8 +2,8 @@
   "name": "Amir-Hossein",
   "short_name": "Amir-Hossein",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "rgb(255, 191, 183)",
+  "background_color": "rgb(255, 191, 183)",
   "icons": [{
     "src": "/images/icon_huf961c08f3fa341d50065c39a43445549_299843_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
