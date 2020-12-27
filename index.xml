@@ -125,7 +125,8 @@ This is significant because RL is so broad, and we should be able to find the be
       <link>https://amirshahid.github.io/privacy/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0100</pubDate>
       <guid>https://amirshahid.github.io/privacy/</guid>
-      <description>&lt;!--- Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don&#39;t need it.
+      <description>&lt;p&gt;&lt;img src=&#34;elahi.svg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;!--- Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don&#39;t need it.
 ---&gt;
 </description>
     </item>
