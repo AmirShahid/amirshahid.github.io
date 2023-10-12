@@ -20,7 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2023 Oct 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/教程/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interest/how-to-teach-a-robot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/interest/how-to-teach-a-robot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/interest/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interest/robots/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/interest/robots/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/getting-started/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/jupyter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/jupyter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/writing-technical-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/writing-technical-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/bs-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/bs-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/scanner/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/scanner/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication-type/paper-conference/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/paper-conference/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/actexplore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/actexplore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/vehicletraj/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/vehicletraj/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/academic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/academic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/humanoid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/humanoid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/medical-image-analysis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/medical-image-analysis/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/source-themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/source-themes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/transfer-learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/transfer-learning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/tutorial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/开源/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/开源/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk/example-talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/example-talk/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +119,8 @@
       <workItem from="1605853489062" duration="1569000" />
       <workItem from="1606987925928" duration="1069000" />
       <workItem from="1608730776402" duration="557000" />
-      <workItem from="1697074523613" duration="1132000" />
+      <workItem from="1697074523613" duration="1730000" />
+      <workItem from="1697119018115" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -185,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697075283422</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2023 Oct 11">
+      <created>1697080356960</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697080356960</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
