@@ -1,104 +1,133 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://amirshahid.github.io/talk/example-talk/</loc>
+    <lastmod>2022-04-24T03:20:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/publication/actexplore/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/publication_types/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/tag/source-themes/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/tags/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-01T16:15:11+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/publication/vehicletraj/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/tag/academic/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/categories/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/category/demo/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/post/getting-started/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/interest/how-to-teach-a-robot/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/interest/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/tags/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/tag/tutorial/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/tag/humanoid/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/interest/robots/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/privacy/</loc>
-    <lastmod>2020-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/tag/medical-image-analysis/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/project/scanner/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/project/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/tag/transfer-learning/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/project/bs-project/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/post/writing-technical-content/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/post/jupyter/</loc>
+    <lastmod>2022-10-02T16:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-14T12:26:55+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/slides/example/</loc>
+    <lastmod>2022-08-14T12:26:55+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/slides/scanner/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/author/amir-hossein-shahidzadeh/</loc>
-  </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/categories/</loc>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://amirshahid.github.io/post/</loc>
+    <lastmod>2022-04-24T03:20:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/publication/</loc>
+    <lastmod>2023-09-13T00:06:16+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://amirshahid.github.io/event/</loc>
+    <lastmod>2022-04-24T03:20:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://amirshahid.github.io/talk/</loc>
-  </url>
-  
 </urlset>

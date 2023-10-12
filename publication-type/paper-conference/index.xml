@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper-conference | Amir-Hossein</title>
+    <link>https://amirshahid.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://amirshahid.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper-conference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amirshahid.github.io/media/icon_huf961c08f3fa341d50065c39a43445549_299843_512x512_fill_lanczos_center_3.png</url>
+      <title>paper-conference</title>
+      <link>https://amirshahid.github.io/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>AcTExplore: Active Tactile Exploration on Unknown Objects</title>
+      <link>https://amirshahid.github.io/publication/actexplore/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://amirshahid.github.io/publication/actexplore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Trajectory Prediction works but not everywhere</title>
+      <link>https://amirshahid.github.io/publication/vehicletraj/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://amirshahid.github.io/publication/vehicletraj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
