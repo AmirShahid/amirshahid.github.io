@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2023 Oct 15" />
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2023 Oct 11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +85,6 @@
       <workItem from="1608730776402" duration="557000" />
       <workItem from="1697074523613" duration="1730000" />
       <workItem from="1697119018115" duration="1076000" />
-      <workItem from="1697429686114" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -199,14 +198,7 @@
       <option name="project" value="LOCAL" />
       <updated>1697125231813</updated>
     </task>
-    <task id="LOCAL-00017" summary="2023 Oct 15">
-      <created>1697429707720</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1697429707720</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +222,6 @@
     <MESSAGE value="Fix for chrome" />
     <MESSAGE value="fix" />
     <MESSAGE value="2023 Oct 11" />
-    <MESSAGE value="2023 Oct 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 Oct 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 Oct 11" />
   </component>
 </project>
