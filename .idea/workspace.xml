@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,7 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2023 Oct 11" />
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2023 Oct 11">
+      <change afterPath="$PROJECT_DIR$/publication/actexplore/real_drill.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/feelanyforce/cite.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/feelanyforce/fruits.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/wowchemy.8958bed08a4455c7c753d11f5bcdfd67.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/wowchemy.8958bed08a4455c7c753d11f5bcdfd67.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/开源/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/开源/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/开源/page/1/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,33 +41,63 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AmirShahid"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AmirShahid/amirshahid.github.io.git",
+    "accountId": "12396955-d0f0-493c-a802-f012d65f459c"
+  }
+}]]></component>
   <component name="JupyterTrust" id="99a9c3a9-a984-4403-a95e-c61334c3174b" />
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="1hu30OdqxeX3vB47CN7u3Hfh4w3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/amir/PycharmProjects/amirshahid.github.io/publication/actexplore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/publication/actexplore" />
       <recent name="E:\GitFolio\amirshahid.github.io.git" />
       <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
       <recent name="E:\GitFolio\starter-academic\content\static\media" />
       <recent name="E:\GitFolio\starter-academic\content\slides\example" />
-      <recent name="E:\GitFolio\starter-academic\content\slides" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
       <recent name="E:\GitFolio\starter-academic\static\media" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -85,6 +128,7 @@
       <workItem from="1608730776402" duration="557000" />
       <workItem from="1697074523613" duration="1730000" />
       <workItem from="1697119018115" duration="1076000" />
+      <workItem from="1733854459975" duration="4744000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
