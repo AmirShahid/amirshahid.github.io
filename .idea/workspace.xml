@@ -22,16 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2023 Oct 11">
-      <change afterPath="$PROJECT_DIR$/publication/actexplore/real_drill.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publication/feelanyforce/cite.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publication/feelanyforce/fruits.gif" afterDir="false" />
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2024 Dec 10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/wowchemy.8958bed08a4455c7c753d11f5bcdfd67.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/wowchemy.8958bed08a4455c7c753d11f5bcdfd67.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/开源/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/开源/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/开源/page/1/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,43 +34,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AmirShahid"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AmirShahid&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AmirShahid/amirshahid.github.io.git",
-    "accountId": "12396955-d0f0-493c-a802-f012d65f459c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmirShahid/amirshahid.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;12396955-d0f0-493c-a802-f012d65f459c&quot;
   }
-}]]></component>
+}</component>
   <component name="JupyterTrust" id="99a9c3a9-a984-4403-a95e-c61334c3174b" />
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1hu30OdqxeX3vB47CN7u3Hfh4w3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/amir/PycharmProjects/amirshahid.github.io/publication/actexplore",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/amir/PycharmProjects/amirshahid.github.io/publication/actexplore&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/publication/actexplore" />
@@ -128,7 +121,8 @@
       <workItem from="1608730776402" duration="557000" />
       <workItem from="1697074523613" duration="1730000" />
       <workItem from="1697119018115" duration="1076000" />
-      <workItem from="1733854459975" duration="4744000" />
+      <workItem from="1733854459975" duration="5207000" />
+      <workItem from="1733927363712" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -242,7 +236,31 @@
       <option name="project" value="LOCAL" />
       <updated>1697125231813</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2024 Dec 10">
+      <option name="closed" value="true" />
+      <created>1733859258960</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733859258960</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2024 Dec 10">
+      <option name="closed" value="true" />
+      <created>1733859424045</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1733859424045</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2024 Dec 10">
+      <option name="closed" value="true" />
+      <created>1733859457009</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1733859457009</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +284,7 @@
     <MESSAGE value="Fix for chrome" />
     <MESSAGE value="fix" />
     <MESSAGE value="2023 Oct 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 Oct 11" />
+    <MESSAGE value="2024 Dec 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024 Dec 10" />
   </component>
 </project>
