@@ -22,14 +22,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2024 Dec 10">
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2025 Feb 6">
+      <change afterPath="$PROJECT_DIR$/media/icons/brands/honda.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="160" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +56,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -58,19 +68,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amir/PycharmProjects/amirshahid.github.io/publication/actexplore&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/amir/PycharmProjects/amirshahid.github.io/publication/actexplore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/publication/actexplore" />
@@ -80,6 +94,7 @@
       <recent name="E:\GitFolio\starter-academic\content\slides\example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media/icons/brands" />
       <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
       <recent name="E:\GitFolio\starter-academic\static\media" />
     </key>
@@ -87,8 +102,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
-        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
@@ -127,7 +142,18 @@
       <workItem from="1733957781427" duration="678000" />
       <workItem from="1734045745183" duration="71000" />
       <workItem from="1734111597953" duration="5000" />
-      <workItem from="1734464824076" duration="1079000" />
+      <workItem from="1734464824076" duration="1110000" />
+      <workItem from="1738010160628" duration="494000" />
+      <workItem from="1738178670602" duration="639000" />
+      <workItem from="1738277093790" duration="2880000" />
+      <workItem from="1738608639520" duration="97000" />
+      <workItem from="1738856317939" duration="11000" />
+      <workItem from="1738872876477" duration="670000" />
+      <workItem from="1738944327969" duration="2000" />
+      <workItem from="1738968345422" duration="66000" />
+      <workItem from="1739130177087" duration="8000" />
+      <workItem from="1739135721799" duration="5000" />
+      <workItem from="1770920618721" duration="2075000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -265,7 +291,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733859457009</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2024 Dec 17">
+      <option name="closed" value="true" />
+      <created>1734465932288</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1734465932288</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2025 Jan 27">
+      <option name="closed" value="true" />
+      <created>1738010232393</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1738010232393</updated>
+    </task>
+    <task id="LOCAL-00022" summary="2025 Feb 6">
+      <option name="closed" value="true" />
+      <created>1738872924227</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1738872924227</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +340,9 @@
     <MESSAGE value="fix" />
     <MESSAGE value="2023 Oct 11" />
     <MESSAGE value="2024 Dec 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024 Dec 10" />
+    <MESSAGE value="2024 Dec 17" />
+    <MESSAGE value="2025 Jan 27" />
+    <MESSAGE value="2025 Feb 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025 Feb 6" />
   </component>
 </project>
