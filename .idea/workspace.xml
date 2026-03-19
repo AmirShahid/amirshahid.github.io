@@ -22,11 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2025 Feb 6">
-      <change afterPath="$PROJECT_DIR$/media/icons/brands/honda.png" afterDir="false" />
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Feb 12">
+      <change afterPath="$PROJECT_DIR$/publication/navmoe/NavMoE.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/amir/PycharmProjects/amirshahid.github.io/publication/actexplore",
+    "last_opened_file_path": "/home/amir/PycharmProjects/amirshahid.github.io/publication/navmoe",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,11 +86,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/publication/navmoe" />
       <recent name="$PROJECT_DIR$/publication/actexplore" />
       <recent name="E:\GitFolio\amirshahid.github.io.git" />
       <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
       <recent name="E:\GitFolio\starter-academic\content\static\media" />
-      <recent name="E:\GitFolio\starter-academic\content\slides\example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/media/icons/brands" />
@@ -153,7 +152,9 @@
       <workItem from="1738968345422" duration="66000" />
       <workItem from="1739130177087" duration="8000" />
       <workItem from="1739135721799" duration="5000" />
-      <workItem from="1770920618721" duration="2075000" />
+      <workItem from="1770920618721" duration="2889000" />
+      <workItem from="1771281235262" duration="915000" />
+      <workItem from="1773954776405" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -315,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738872924227</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2026 Feb 12">
+      <option name="closed" value="true" />
+      <created>1770922809000</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1770922809000</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +352,7 @@
     <MESSAGE value="2024 Dec 17" />
     <MESSAGE value="2025 Jan 27" />
     <MESSAGE value="2025 Feb 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025 Feb 6" />
+    <MESSAGE value="2026 Feb 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026 Feb 12" />
   </component>
 </project>
