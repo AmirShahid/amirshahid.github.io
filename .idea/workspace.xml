@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Jul 22">
-      <change afterPath="$PROJECT_DIR$/publication/wawk/wawk.webm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publication/wawk/wawk.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +159,7 @@
       <workItem from="1784132439467" duration="3929000" />
       <workItem from="1784233976004" duration="3924000" />
       <workItem from="1784734244734" duration="2723000" />
-      <workItem from="1784738295030" duration="2793000" />
+      <workItem from="1784738295030" duration="3954000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -362,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784739121200</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2026 Jul 22">
+      <option name="closed" value="true" />
+      <created>1784741093128</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1784741093128</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
