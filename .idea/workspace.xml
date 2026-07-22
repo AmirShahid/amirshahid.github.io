@@ -22,7 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Mar 19">
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Jul 22">
+      <change afterPath="$PROJECT_DIR$/publication/mu0/mu0.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -32,7 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="161" />
+    <option name="cachedIndexableFilesCount" value="163" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -75,7 +76,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amir/PycharmProjects/amirshahid.github.io/publication/navmoe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/amir/PycharmProjects/amirshahid.github.io/publication/mu0&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -86,13 +87,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/publication/mu0" />
       <recent name="$PROJECT_DIR$/publication/navmoe" />
       <recent name="$PROJECT_DIR$/publication/actexplore" />
       <recent name="E:\GitFolio\amirshahid.github.io.git" />
       <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
-      <recent name="E:\GitFolio\starter-academic\content\static\media" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/publication/mu0" />
       <recent name="$PROJECT_DIR$/media/icons/brands" />
       <recent name="E:\GitFolio\starter-academic\content\project\BS-Project" />
       <recent name="E:\GitFolio\starter-academic\static\media" />
@@ -158,6 +160,8 @@
       <workItem from="1774199417273" duration="1755000" />
       <workItem from="1784132439467" duration="3929000" />
       <workItem from="1784233976004" duration="3924000" />
+      <workItem from="1784734244734" duration="2723000" />
+      <workItem from="1784738295030" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -343,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773960695632</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2026 Jul 22">
+      <option name="closed" value="true" />
+      <created>1784734273233</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1784734273233</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +385,7 @@
     <MESSAGE value="2025 Feb 6" />
     <MESSAGE value="2026 Feb 12" />
     <MESSAGE value="2026 Mar 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026 Mar 19" />
+    <MESSAGE value="2026 Jul 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026 Jul 22" />
   </component>
 </project>
