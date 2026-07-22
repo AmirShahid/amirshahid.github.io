@@ -22,8 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Feb 12">
-      <change afterPath="$PROJECT_DIR$/publication/navmoe/NavMoE.gif" afterDir="false" />
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Mar 19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -33,7 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="160" />
+    <option name="cachedIndexableFilesCount" value="161" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -67,23 +66,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/amir/PycharmProjects/amirshahid.github.io/publication/navmoe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/amir/PycharmProjects/amirshahid.github.io/publication/navmoe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/publication/navmoe" />
@@ -154,7 +154,10 @@
       <workItem from="1739135721799" duration="5000" />
       <workItem from="1770920618721" duration="2889000" />
       <workItem from="1771281235262" duration="915000" />
-      <workItem from="1773954776405" duration="1077000" />
+      <workItem from="1773954776405" duration="1767000" />
+      <workItem from="1774199417273" duration="1755000" />
+      <workItem from="1784132439467" duration="3929000" />
+      <workItem from="1784233976004" duration="3924000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -324,7 +327,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770922809000</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2026 Mar 19">
+      <option name="closed" value="true" />
+      <created>1773955896965</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1773955896965</updated>
+    </task>
+    <task id="LOCAL-00025" summary="2026 Mar 19">
+      <option name="closed" value="true" />
+      <created>1773960695632</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1773960695632</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,6 +372,7 @@
     <MESSAGE value="2025 Jan 27" />
     <MESSAGE value="2025 Feb 6" />
     <MESSAGE value="2026 Feb 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026 Feb 12" />
+    <MESSAGE value="2026 Mar 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026 Mar 19" />
   </component>
 </project>
