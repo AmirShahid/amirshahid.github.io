@@ -293,6 +293,11 @@
                 padding: .1rem .45rem;
             }
 
+            /* never draw a tag box for a venue with no text */
+            .pub-publication:empty {
+                display: none;
+            }
+
             .pub-publication a {
                 color: inherit;
                 text-decoration: none;
@@ -831,7 +836,7 @@
 
     Sep, 2026
   </span>
-                            <span class="pub-venues"><span class="pub-publication"></span><span class="middot-divider"></span><span class="pub-publication"><a href="https://iros-touch2action.github.io/" target="_blank" rel="noopener">Spotlight, Touch-to-Action @ IROS 2026</a></span></span>
+                            <span class="pub-venues"><span class="pub-publication"><a href="https://iros-touch2action.github.io/" target="_blank" rel="noopener">Spotlight, Touch-to-Action @ IROS 2026</a></span></span>
                         </div>
 
 
