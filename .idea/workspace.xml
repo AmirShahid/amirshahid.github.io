@@ -22,8 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Jul 23">
-      <change afterPath="$PROJECT_DIR$/publication/controltac/controltac.gif" afterDir="false" />
+    <list default="true" id="1800fb05-1667-482f-97a4-d75e80b8a05d" name="Default Changelist" comment="2026 Sep 29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -166,7 +165,7 @@
       <workItem from="1785003774232" duration="51000" />
       <workItem from="1785257672216" duration="643000" />
       <workItem from="1785365484691" duration="8000" />
-      <workItem from="1790716992054" duration="3489000" />
+      <workItem from="1790716992054" duration="4824000" />
     </task>
     <task id="LOCAL-00001" summary="Initiate with general infos">
       <created>1601362461431</created>
@@ -392,7 +391,23 @@
       <option name="project" value="LOCAL" />
       <updated>1784821486061</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2026 Sep 29">
+      <option name="closed" value="true" />
+      <created>1790731895292</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1790731895292</updated>
+    </task>
+    <task id="LOCAL-00032" summary="2026 Sep 29">
+      <option name="closed" value="true" />
+      <created>1790731930388</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1790731930388</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,6 +439,7 @@
     <MESSAGE value="2026 Mar 19" />
     <MESSAGE value="2026 Jul 22" />
     <MESSAGE value="2026 Jul 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026 Jul 23" />
+    <MESSAGE value="2026 Sep 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026 Sep 29" />
   </component>
 </project>
